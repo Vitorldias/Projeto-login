@@ -3,7 +3,7 @@
 ## 🛠️ Tecnologias
  - HTML
  - CSS
- Git e Github
+ - Git e Github
 
  ## 💙 Contato
 
