@@ -11,6 +11,7 @@
 }
 body {
     font-family: var(--fonte02);
+    background-color: #121214;
 }
 body * {
     box-sizing: border-box;
