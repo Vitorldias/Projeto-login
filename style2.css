@@ -24,6 +24,10 @@ ul {
     flex-wrap: wrap;
 }
 
+ ul li:hover {
+    transform: scale(1.1);
+}
+
 .social {
    color: #f0ffffde;
    margin: 10px 0px 10px 2px;
