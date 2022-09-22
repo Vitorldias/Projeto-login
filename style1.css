@@ -119,6 +119,12 @@ ul {
     color: #2b134b;
 }
 
+.btn-login2:hover {
+    transform: scale(1.05);
+    font-weight: 700;
+    background-color: #00ffd5;
+}
+
 .btn-login2 {
     width: 50%;
     padding: 20px 0px;

@@ -121,6 +121,14 @@ body * {
 .btn-login1 > a {
     text-decoration: none;
     color: #2b134b;
+    
+}
+
+.btn-login1:hover {
+    transform: scale(1.03);
+    font-weight: 700;
+    background-color: #00ffd5;
+
 }
 
 .btn-login2 {
@@ -139,6 +147,13 @@ body * {
     box-shadow: 0px 10px 40px -12px #00ff8052;
     
 }
+
+.btn-login2:hover {
+    transform: scale(1.03);
+    font-weight: 700;
+    background-color: #00ffd5;
+}
+
 .btn-login2 > a {
     text-decoration: none;
     color: #2b134b;
